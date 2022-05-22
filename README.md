@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Aline Barbosa 👋
 
-- 🔭 Estou encantada pela área tech e estou estudando para me tornar desenvolvedora
-- 🌱 Estudando HTML, CSS, JavaScript, Git, NodeJS, ReactJS, TypeScript..
+- 🔭 Developer Front-end
+- 🌱 Estudando HTML, CSS, JavaScript, Git, NodeJS, ReactJS, Angular, TypeScript..
 - 😄 Pronouns: ela/dela
 
 <div align="center">
