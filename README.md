@@ -2,6 +2,7 @@
 
 - 🔭 Front-end Developer / Graduanda em Análise e Desenvolvimento de Sistemas
 - 🌱 Atualmente, estou atuando com Angular, JavaScript, HTML, CSS, Git e TypeScript. Além disso, estou aprimorando meus conhecimentos em JAVA.
+- Estou comprometida em aprimorar minhas habilidades constantemente, buscando sempre aprender e crescer na área de desenvolvimento de software.
 - 😄 Pronouns: ela/dela
 
 <div align="center">
