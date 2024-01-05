@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Aline Barbosa 👋
 
 - 🔭 Front-end Developer / Graduanda em Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Angular, JavaScript, JAVA, HTML, CSS, Git, NodeJS, TypeScript..
+- 🌱 Atualmente, estou atuando com Angular, JavaScript, HTML, CSS, Git e TypeScript. Além disso, estou aprimorando meus conhecimentos em JAVA.
 - 😄 Pronouns: ela/dela
 
 <div align="center">
@@ -14,7 +14,6 @@
   <img align="center" alt="Aline-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Aline-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Aline-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Aline-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
 </div>
 
