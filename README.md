@@ -2,12 +2,12 @@
 
 - 🔭 Desenvolvedora Full Stack / Graduada em Análise e Desenvolvimento de Sistemas
 - 🌱 Tecnologias que utilizo: Angular, JavaScript, HTML, CSS/SASS, Git, TypeScript, C#/.NET, SQL.
-- 🌱 Sempre focada em aprimorar meus conhecimentos e me desafiar.
+- 🌱 Estou sempre focada em aprimorar meus conhecimentos e me desafiar.
 ---------------------------------------------------------------------------------------------------
 ### Hello! I am Aline Barbosa 👋
 - 🔭 Full Stack Developer / Graduated in Systems Analysis and Development
 - 🌱 Technologies I use: Angular, JavaScript, HTML, CSS/SASS, Git, TypeScript, C#/.NET, SQL.
-- 🌱 Always focused on enhancing my knowledge and challenging myself.
+- 🌱 I'm always focused on enhancing my knowledge and challenging myself.
 
 <div align="center">
   <a href="https://github.com/alinebarbosasilva">
